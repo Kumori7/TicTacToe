@@ -2,13 +2,16 @@
 
 
 1) inital start of application
+
 ![image](https://user-images.githubusercontent.com/73298685/187746532-eb83f42b-9b5f-46d5-a61d-07cc92ebc583.png)
 
 2) Horrizontal Player game check 
+
 ![image](https://user-images.githubusercontent.com/73298685/187747027-41790298-8d03-4f88-86fd-98db822fbcd7.png)
 
 
 3) Diagonal Player game check
+
 ![image](https://user-images.githubusercontent.com/73298685/187747528-4ec30476-9664-4aaa-b45e-c000342a4cdc.png)
 
 4) Vertical Player game check 
